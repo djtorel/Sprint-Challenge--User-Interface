@@ -276,3 +276,26 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+/* About page */
+.top-section-about {
+  border-bottom: 1px dashed black;
+}
+
+.pb20px {
+  padding-bottom: 20px;
+}
+
+.about-middle-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.about-middle-item {
+  width: 46%;
+  padding: 0 2%;
+  padding: 30px 0;
+  border-bottom: 1px dashed black;
+}
