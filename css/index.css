@@ -303,13 +303,14 @@ footer nav a {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  margin-top: 10px;
   margin-bottom: 20px;
 }
 
 .about-middle-item {
   width: 46%;
   padding: 0 2%;
-  padding: 30px 0;
+  padding: 20px 0;
   border-bottom: 1px dashed black;
 }
 
