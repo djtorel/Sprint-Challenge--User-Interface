@@ -282,6 +282,10 @@ footer nav a {
   border-bottom: 1px dashed black;
 }
 
+.about-top-content {
+  margin: 0 2%;
+}
+
 .pb20px {
   padding-bottom: 20px;
 }
