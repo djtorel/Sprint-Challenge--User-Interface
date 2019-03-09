@@ -295,6 +295,10 @@ footer nav a {
   padding-bottom: 10px;
 }
 
+.mb30px {
+  margin-bottom: 30px;
+}
+
 .about-middle-container {
   display: flex;
   flex-wrap: wrap;
