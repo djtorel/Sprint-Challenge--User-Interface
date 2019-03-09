@@ -323,6 +323,7 @@ footer nav a {
   font-weight: normal;
   transition: background-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out;
+  cursor: pointer;
 }
 
 .btn:hover {
