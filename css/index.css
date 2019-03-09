@@ -286,6 +286,10 @@ footer nav a {
   padding-bottom: 20px;
 }
 
+.pb10px {
+  padding-bottom: 10px;
+}
+
 .about-middle-container {
   display: flex;
   flex-wrap: wrap;
@@ -298,4 +302,13 @@ footer nav a {
   padding: 0 2%;
   padding: 30px 0;
   border-bottom: 1px dashed black;
+}
+
+.btn {
+  color: black;
+  background-color: white;
+  padding: 5px 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-weight: normal;
 }
