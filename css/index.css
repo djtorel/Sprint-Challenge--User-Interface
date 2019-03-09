@@ -321,6 +321,13 @@ footer nav a {
   border: 2px solid black;
   border-radius: 10px;
   font-weight: normal;
+  transition: background-color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+}
+
+.btn:hover {
+  background-color: darkslategray;
+  color: white;
 }
 
 .about-bottom-section {
